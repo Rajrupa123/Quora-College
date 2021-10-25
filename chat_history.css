@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    background-image: url(./n1.jpg);
+}
+.search{
+    display: flex;
+    border: 2px solid tomato;
+    width: 600px;
+    height: 40px;
+    border-radius: 9px;
+    justify-content: center;
+    position: relative;
+    margin-left: 350px;
+    border-width: 4px;
+}
+.dp1{
+    -webkit-clip-path: circle(50% at 50% 50%);
+clip-path: circle(50% at 50% 50%);
+margin: 20px;
+border: 2px solid white;
+}
+.message1{
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    margin-top: -100px;
+    margin-left: 140px;
+}
+.dp2{
+    -webkit-clip-path: circle(50% at 50% 50%);
+clip-path: circle(50% at 50% 50%);
+margin: 20px;
+border: 2px solid white;
+}
+.message2{
+    position: absolute;
+    color:black;
+    font-weight: bold;
+    margin-top: -101px;
+    margin-left: 140px;
+}
+.dp3{
+    -webkit-clip-path: circle(50% at 50% 50%);
+clip-path: circle(50% at 50% 50%);
+margin: 20px;
+border: 2px solid white;
+}
+.message3{
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    margin-top: -101px;
+    margin-left: 140px;
+}
+.dp4{
+    -webkit-clip-path: circle(50% at 50% 50%);
+clip-path: circle(50% at 50% 50%);
+margin: 20px;
+border: 2px solid white;
+}
+.message4{
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    margin-top: -101px;
+    margin-left: 140px;
+}
+.message_desc1{
+    color: rgb(59, 18, 18);
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 138px;
+}
